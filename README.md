@@ -14,7 +14,7 @@ Open your terminal or command prompt.
 Navigate to the directory where you want to clone the repository.
 Run the following command:
 
-git clone (https://github.com/pradeep85841/WebApp.git)
+git clone https://github.com/pradeep85841/WebApp.git
 
 After cloning, navigate to the project directory:
 
